@@ -9,6 +9,7 @@ Total of 369,711 votes were cast in this congressional election.
 
 #### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
 - The number of votes and the percentage of total votes for each county:
+
   Jefferson: 10.5% (38,855)
   
   Denver: 82.8% (306,055)
@@ -21,7 +22,9 @@ Total of 369,711 votes were cast in this congressional election.
 #### Breakdown of the number of votes and the percentage of the total votes each candidate received.
 
   Charles Casper Stockham: 23.0% (85,213)
+  
   Diana DeGette: 73.8% (272,892)
+  
   Raymon Anthony Doane: 3.1% (11,606)
 
 #### Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
