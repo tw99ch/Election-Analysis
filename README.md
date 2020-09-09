@@ -8,7 +8,7 @@ The purpose of this election audit analysis is to evalulate of the outcome from 
 Total of 369,711 votes were cast in this congressional election.
 
 #### Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- The number of votes and the percentage of total votes for each county:
+- The number of votes and the percentage of total votes for each county: (https://github.com/tw99ch/Election-Analysis/blob/master/analysis/election_results.txt)
 
   Jefferson: 10.5% (38,855)
   
@@ -41,9 +41,11 @@ With the modification of row number, the commission can run the audit for any vo
     county_name = row[1]
 
 With the modification of the file name, the commision can run the audit for different file name. For example, the result my by stored in different region name. The commision can simply change the file name to load the data into analysis. 
+
 'file_to_load = os.path.join("Resources","election_results.csv")
 
 In addition, the commision can export the analysis into different file name by changing the code.
+
 'ile_to_save = os.path.join("analysis", "election_results.txt")
 
 
